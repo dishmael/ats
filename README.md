@@ -1,1 +1,1 @@
-# ats
+# Applicant Tracking System (ATS)
